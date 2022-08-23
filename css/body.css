@@ -60,7 +60,20 @@ body {
 
 .logo {
   position: absolute;
-  top: 1000px;
+  top: 1155px;
+}
+
+.mask{
+  float: left;
+  margin-bottom: 100px;
+}
+.mask .introduction{
+  font-size: 44px;
+  float: right;
+  width: 70%;
+  text-align: right;
+  padding-top: 160px;
+  
 }
 
 .projects-subtitle {
